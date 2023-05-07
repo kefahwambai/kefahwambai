@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kefah Wambai</h1>
 <h3 align="center">A passionate frontend & backend developer from Kenya.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kefahwambai" alt="kefahwambai" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Redux, Nextjs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
