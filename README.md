@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **kefahngwei@gmail.com**
 
-- 📄 Know about my experiences [https://myportf0lio.vercel.app/](https://myportf0lio.vercel.app/)
-
 - ⚡ Fun fact **The shortest war in history was between Britain and Zanzibar in 1896. It lasted just 38 minutes.**
 
 <h3 align="left">Connect with me:</h3>
