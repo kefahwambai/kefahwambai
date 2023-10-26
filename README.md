@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kefah Wambai</h1>
 <h3 align="center">A Software Engineer from Kenya.</h3>
 
-- 🌱 I’m currently learning **TypeScript, Angular**
+- 🔭 I’m currently working on **iReporter**
+
+- 🌱 I’m currently learning **Laravel, Vuejs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://myportf0lio.vercel.app/](https://myportf0lio.vercel.app/)
 
+- 💬 Ask me about **Reactjs, Ruby Rails**
+
 - 📫 How to reach me **kefahngwei@gmail.com**
 
-- ⚡ Fun fact **The shortest war in history was between Britain and Zanzibar in 1896. It lasted just 38 minutes.**
+- ⚡ Fun fact **It is physically impossible for pigs to look up into the sky.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
