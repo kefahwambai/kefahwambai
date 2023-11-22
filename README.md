@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kefah Wambai</h1>
 <h3 align="center">A Software Engineer from Kenya.</h3>
 
-- 🔭 I’m currently working on [iReporter](https://github.com/kefahwambai/BossDomainClient)
+- 🔭 I’m currently working on [BossDomain](https://github.com/kefahwambai/BossDomainClient)
 
 - 🌱 I’m currently learning **Laravel, Vuejs, Nextjs**
 
