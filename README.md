@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://myportf0lio.vercel.app/](https://myportf0lio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://myportf0lio.vercel.app/](https://kefahwambai.com/)
 
 - 💬 Ask me about **Reactjs, Ruby Rails**
 
