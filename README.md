@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kefah Wambai</h1>
 <h3 align="center">A Software Engineer from Kenya.</h3>
 
-- 🔭 I’m currently working on [Laragigs](https://github.com/kefahwambai/Laragigs)
+- 🔭 I’m currently working on [RythmicRhymes](https://github.com/kefahwambai/RythmicRhymes-client)
 
 - 🌱 I’m currently learning **Laravel, Vuejs**
 
