@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kefah Wambai</h1>
 <h3 align="center">A Software Engineer from Kenya.</h3>
 
-- 🔭 I’m currently working on [SolkidsAfrica](https://solproject-gamma.vercel.app/)
-
-- 🌱 I’m currently learning **Laravel, Vuejs**
+- 🔭 I’m currently working on [CarFacts](https://github.com/kefahwambai/carfacts-fe/)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
