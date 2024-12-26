@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kefah Wambai</h1>
 <h3 align="center">A Software Engineer from Kenya.</h3>
 
-- 🔭 I’m currently working on [CarFacts](https://github.com/kefahwambai/carfacts-fe/)
+- 🔭 I’m currently working on [TheFeasitify](https://www.thefeastify.com/)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -10,8 +10,6 @@
 - 💬 Ask me about **Reactjs, Ruby Rails**
 
 - 📫 How to reach me **kefahngwei@gmail.com**
-
-- ⚡ Fun fact **It is physically impossible for pigs to look up into the sky.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
